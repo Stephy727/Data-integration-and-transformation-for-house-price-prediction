@@ -1,6 +1,6 @@
 # Data-integration-and-transformation-for-house-price-prediction
 
-Various data sources have been integrated to make an nalytical dataset for house price prediction for houses.
+Various data sources have been integrated to make an nalytical dataset for house price prediction problem.
 
 The files used are:
 vic_suburb_boundary.zip,
